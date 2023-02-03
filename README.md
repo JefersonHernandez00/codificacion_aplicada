@@ -1,5 +1,5 @@
 
-#Codificacion Javascript y PHP
+# Codificacion Javascript y PHP
 
 
 1. Realice un algoritmo que reciba como parámetro dos números enteros y retorne la
